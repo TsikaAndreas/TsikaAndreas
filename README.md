@@ -16,11 +16,11 @@ Hi 👋, I'm <a href="https://tsika.eu/" target="blank">Andrei Robert Tsika</a>
 
 I'm a passionate developer focused on building clean, intuitive web applications that deliver seamless user experiences. I thrive on transforming ideas into reality with innovative solutions, continuously seeking to expand my knowledge and stay ahead with new tools and concepts.
 
-- ⭐ currently working on web-development
-- 💀 mostly working on private repositories
-- 👾 just a developer working his way around things
+- ⭐ Currently focused on web development.
+- 💀 Actively working on private repositories.
+- 👾 A developer who enjoys solving complex challenges.
 - 🔭 Personal website: [tsika.eu](https://tsika.eu)
-- 🤝 I’m available for freelancing.
+- 🤝 Open for freelance opportunities.
 
 ## 🌐 Socials:
 
