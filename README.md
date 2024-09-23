@@ -3,14 +3,8 @@ Hi 👋, I'm <a href="https://tsika.eu/" target="blank">Andrei Robert Tsika</a>
 <br>
 
 </h1>
-<div align="center" style="font-size: 20px; font-weight: bold;">Welcome to my corner of the web!</div>
+<div align="center">Welcome to my corner of the web!</div>
 <br>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=TsikaAndreas&icon=2&color=0)](https://tsika.eu)
-
-</div>
 
 ## 💫 About Me:
 
